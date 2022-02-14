@@ -26,7 +26,7 @@ Looking to change the technological side of the world<img src="https://media.gip
 
 - :telescope: Software Engineer | Tech Lead | CTO and a Full Stack Engineer.
 
-- :raising_hand_man: Available for new projects and chalenges.
+- :raising_hand_man: Available for new projects and challenges.
 
 - :zap: Helping companies and startups build amazing products.
         Django Expert | Angular | React | Nextjs | Tailwindcss | Bootstrap | MySQL | PostgreSQL | Amazon Web Services | and More...

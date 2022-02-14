@@ -26,7 +26,8 @@ Looking to change the technological side of the world<img src="https://media.gip
 
 - :telescope: Software Engineer | Tech Lead | CTO and a Full Stack Engineer
 
-- :zap: Helping companies and startups build amazing products from MVP to Production-ready
+- :zap: Helping companies and startups build amazing products from MVP to Feature Packed.
+        Django Expert | Angular | React | Nextjs | Tailwindcss | and More...
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Devendra%20Bajaj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devendrabajaj/) or @ devendra.bajaj10@gmail.com
 

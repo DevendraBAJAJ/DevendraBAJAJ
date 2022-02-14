@@ -24,10 +24,12 @@
 
 Looking to change the technological side of the world<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Software Engineer | Tech Lead | CTO and a Full Stack Engineer
+- :telescope: Software Engineer | Tech Lead | CTO and a Full Stack Engineer.
 
-- :zap: Helping companies and startups build amazing products from MVP to Feature Packed.
-        Django Expert | Angular | React | Nextjs | Tailwindcss | and More...
+- :raising_hand_man: Available for new projects and chalenges.
+
+- :zap: Helping companies and startups build amazing products.
+        Django Expert | Angular | React | Nextjs | Tailwindcss | Bootstrap | MySQL | PostgreSQL | Amazon Web Services | and More...
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Devendra%20Bajaj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devendrabajaj/) or @ devendra.bajaj10@gmail.com
 

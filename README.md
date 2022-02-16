@@ -1,5 +1,9 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/16799932/153894939-9d67b9de-e2a5-4264-96b5-79ffda4428e8.png" width="200"/>
+  <div id="profile__pic">
+    <p>
+    <img src="https://user-images.githubusercontent.com/16799932/154198093-6951995c-ca8f-41fe-a0a7-1399c4a911ae.jpeg" width="200"/>
+    </p> 
+  </div>  
   <div id="badges">
     <a href="https://www.linkedin.com/in/devendrabajaj/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

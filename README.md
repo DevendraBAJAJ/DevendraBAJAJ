@@ -61,8 +61,6 @@ Looking to change the technological side of the world<img src="https://media.gip
 
 ---
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=DevendraBAJAJ)](https://github.com/LordDashMe/github-contribution-stats/)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevendraBAJAJ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
